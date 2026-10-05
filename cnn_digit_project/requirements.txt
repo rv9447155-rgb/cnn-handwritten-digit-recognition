@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+matplotlib
+torch
+python-docx
+python-pptx

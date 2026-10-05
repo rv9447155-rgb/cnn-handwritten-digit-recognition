@@ -1,0 +1,10 @@
+{
+  "test_accuracy": 0.9694444444444444,
+  "weighted_precision": 0.9701058672620643,
+  "weighted_recall": 0.9694444444444444,
+  "weighted_f1": 0.9692371826396777,
+  "epochs_trained": 30,
+  "train_samples": 1221,
+  "validation_samples": 216,
+  "test_samples": 360
+}
